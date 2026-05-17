@@ -1,50 +1,22 @@
-# autoflow-legal  
-<!DOCTYPE html>
-<html lang="fr">
-<head>
-  <meta charset="UTF-8"/>
-  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
-  <title>Conditions d'Utilisation — AutoFlow AI</title>
-  <style>
-    body { font-family: sans-serif; background: #0A0A0A; color: #e0e0e0; max-width: 800px; margin: 0 auto; padding: 60px 24px; line-height: 1.7; }
-    h1 { color: #FF7A00; font-size: 1.8rem; }
-    h2 { color: #FF7A00; font-size: 1.2rem; margin-top: 36px; }
-    a { color: #FF7A00; }
-    .date { color: #888; font-size: 0.9rem; margin-bottom: 40px; }
-    .back { display: inline-block; margin-top: 40px; color: #FF7A00; text-decoration: none; }
-  </style>
-</head>
-<body>
-  <h1>Conditions d'Utilisation</h1>
-  <p class="date">Dernière mise à jour : 17 mai 2026</p>
+# AutoFlow CI — Centre Légal & Confidentialité
 
-  <h2>1. Acceptation des conditions</h2>
-  <p>En utilisant AutoFlow Publisher, vous acceptez les présentes conditions d'utilisation dans leur intégralité. Si vous n'acceptez pas ces conditions, vous ne devez pas utiliser ce service.</p>
+Ce dépôt héberge les pages légales officielles et les politiques de confidentialité d'**AutoFlow CI**, agence d'automatisation IA basée à Abidjan, Côte d'Ivoire.
 
-  <h2>2. Description du service</h2>
-  <p>AutoFlow Publisher est un outil d'automatisation permettant la planification et la publication de contenu vidéo et photo sur TikTok, pour le compte de créateurs de contenu et d'entreprises.</p>
+Ces pages sont servies publiquement via **GitHub Pages** à l'adresse suivante :  
+👉 **[https://clementcris.github.io/autoflow-legal/](https://clementcris.github.io/autoflow-legal/)**
 
-  <h2>3. Utilisation autorisée</h2>
-  <p>L'utilisateur s'engage à :</p>
-  <ul>
-    <li>Utiliser le service conformément aux <a href="https://www.tiktok.com/legal/page/global/terms-of-service/fr" target="_blank">Conditions d'utilisation de TikTok</a></li>
-    <li>Ne publier que du contenu dont il est propriétaire ou pour lequel il dispose des droits nécessaires</li>
-    <li>Ne pas utiliser le service pour diffuser du contenu illégal, trompeur ou nuisible</li>
-    <li>Respecter les lois et réglementations applicables dans son pays</li>
-  </ul>
+## Contenu du Dépôt
 
-  <h2>4. Accès et autorisations</h2>
-  <p>L'utilisation du service nécessite l'autorisation OAuth de votre compte TikTok. Vous pouvez révoquer cet accès à tout moment depuis les paramètres de votre compte TikTok.</p>
+- **`index.html`** : Portail d'accueil centralisé présentant le Centre Légal.
+- **`privacy.html`** : Politique de Confidentialité officielle d'AutoFlow Publisher (requise pour les intégrations d'API telles que TikTok OAuth).
+- **`terms.html`** : Conditions Générales d'Utilisation du service d'automatisation.
 
-  <h2>5. Limitation de responsabilité</h2>
-  <p>AutoFlow AI ne peut être tenu responsable du contenu publié par les utilisateurs via la plateforme. L'utilisateur est seul responsable du contenu qu'il soumet à la publication.</p>
+## Liens Directs pour les validations d'API (TikTok, Google, etc.)
 
-  <h2>6. Modification des conditions</h2>
-  <p>AutoFlow AI se réserve le droit de modifier ces conditions à tout moment. Les utilisateurs seront informés de tout changement significatif.</p>
+- 🌐 **Accueil** : [https://clementcris.github.io/autoflow-legal/](https://clementcris.github.io/autoflow-legal/)
+- 🔒 **Politique de Confidentialité** : [https://clementcris.github.io/autoflow-legal/privacy.html](https://clementcris.github.io/autoflow-legal/privacy.html)
+- 📝 **Conditions d'Utilisation** : [https://clementcris.github.io/autoflow-legal/terms.html](https://clementcris.github.io/autoflow-legal/terms.html)
 
-  <h2>7. Contact</h2>
-  <p>Pour toute question relative aux présentes conditions : <a href="mailto:autoflowia@proton.me">autoflowia@proton.me</a></p>
-
-  <a href="index.html" class="back">← Retour à l'accueil</a>
-</body>
-</html>
+---
+*Conçu de manière moderne et ultra-sécurisée par AutoFlow CI.*  
+*Contact de support légal : [autoflowia@proton.me](mailto:autoflowia@proton.me)*
