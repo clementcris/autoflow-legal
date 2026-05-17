@@ -1,6 +1,6 @@
-# AutoFlow CI — Centre Légal & Confidentialité
+# AutoFlow AI — Centre Légal & Confidentialité
 
-Ce dépôt héberge les pages légales officielles et les politiques de confidentialité d'**AutoFlow CI**, agence d'automatisation IA basée à Abidjan, Côte d'Ivoire.
+Ce dépôt héberge les pages légales officielles et les politiques de confidentialité d'**AutoFlow AI**, agence d'automatisation IA basée à Abidjan, Côte d'Ivoire.
 
 Ces pages sont servies publiquement via **GitHub Pages** à l'adresse suivante :  
 👉 **[https://clementcris.github.io/autoflow-legal/](https://clementcris.github.io/autoflow-legal/)**
@@ -18,5 +18,5 @@ Ces pages sont servies publiquement via **GitHub Pages** à l'adresse suivante :
 - 📝 **Conditions d'Utilisation** : [https://clementcris.github.io/autoflow-legal/terms.html](https://clementcris.github.io/autoflow-legal/terms.html)
 
 ---
-*Conçu de manière moderne et ultra-sécurisée par AutoFlow CI.*  
+*Conçu de manière moderne et ultra-sécurisée par AutoFlow AI.*  
 *Contact de support légal : [autoflowia@proton.me](mailto:autoflowia@proton.me)*
